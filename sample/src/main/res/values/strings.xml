@@ -44,6 +44,8 @@
     <string name="permissions_title_location">Permissions: Request location permissions</string>
 
     <string name="flowlayout_title_column">Flow Layout: Column</string>
+    <string name="flowlayout_title_gridview">1 Horizontal Gridview Test</string>
+    <string name="staggered_grid_title">2 horiontal staggered grid Test</string>
     <string name="flowlayout_title_row">Flow Layout: Row</string>
 
     <string name="swiperefresh_title_basics">Swipe Refresh: Basic</string>

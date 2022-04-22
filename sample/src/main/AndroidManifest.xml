@@ -261,6 +261,29 @@
         </activity>
 
         <activity
+            android:name=".flowlayout.GridViewSample"
+            android:label="@string/flowlayout_title_gridview"
+            android:windowSoftInputMode="adjustResize"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.google.accompanist.sample.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".flowlayout.StaggeredGridSample"
+            android:label="@string/staggered_grid_title"
+            android:windowSoftInputMode="adjustResize"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.google.accompanist.sample.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
             android:name=".flowlayout.FlowRowSample"
             android:label="@string/flowlayout_title_row"
             android:windowSoftInputMode="adjustResize"
